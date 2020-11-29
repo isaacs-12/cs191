@@ -21,4 +21,3 @@ Segmentation Models:
 3D Models:
   - Browser-viewable model (test_model.html)
   - Generic model (.stl) for use in 3D modeling softwares or printing
-
